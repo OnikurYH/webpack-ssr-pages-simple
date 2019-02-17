@@ -1,0 +1,1 @@
+webpack-ssr-pages-simple
